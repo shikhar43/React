@@ -21,7 +21,7 @@ class UserGreeting extends Component {
         // if(this.state.isLoggedIn){
         //     message = <div>Welcome Shikhar</div>
         // }
-
+// 
         // else{
         //     message = <div>Welcome Guest</div>
         // }
